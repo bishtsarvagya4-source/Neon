@@ -1,2 +1,0 @@
-# Neon
-Working GitHub content
